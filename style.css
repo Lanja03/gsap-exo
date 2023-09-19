@@ -6,12 +6,12 @@ body {
   background-color: black;
 }
 
-#app {
-  display: flex;
-  gap: 15px;
-}
 
 p {
   color: rgb(219, 207, 28);
   font-size: 72px;
+}
+
+span {
+  display: inline-block;
 }
